@@ -1,5 +1,16 @@
 # 📘 مجموعه آموزشی زمین‌شناسی
 
+![Last Commit](https://img.shields.io/github/last-commit/sobhankohanpour/general-geology)
+![Issues](https://img.shields.io/github/issues/sobhankohanpour/general-geology)
+![Pull Requests](https://img.shields.io/github/issues-pr/sobhankohanpour/general-geology)
+
+![Repo Size](https://img.shields.io/github/repo-size/sobhankohanpour/general-geology)
+![Code Size](https://img.shields.io/github/languages/code-size/sobhankohanpour/general-geology)
+![Contributors](https://img.shields.io/github/contributors/sobhankohanpour/general-geology)
+![Forks](https://img.shields.io/github/forks/sobhankohanpour/general-geology)
+![GitHub Stars](https://img.shields.io/github/stars/sobhankohanpour/general-geology)
+
+
 این مجموعه شامل ۱۱ فصل منظم و طبقه‌بندی‌شده است که به‌صورت فشرده، دقیق و قابل فهم به مباحث پایه و عمومی زمین‌شناسی می‌پردازد. مطالب این مجموعه با هدف آموزش مفاهیم کلیدی زمین‌شناسی برای طیف وسیعی از مخاطبان طراحی شده‌اند.
 
 ## 🎯 مخاطبان این مجموعه
